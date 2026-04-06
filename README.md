@@ -9,7 +9,7 @@ I've been rewriting my site a couple of times already.
 Currently working on **v4**, which is in active development.
 - [v2 (old but working)](https://github.com/jbgy/website)
 - [v3 (experimental mess)](https://github.com/jbgy/web)
-- [v4 (WIP, active dev)](https://git.jbugel.xyz/jb/website)
+- [v5 (WIP, active dev)](https://git.jbugel.xyz/jb/website)
 
 The site is my little playground: blog posts, projects, experiments with design/tech, and whatever else I feel like putting online.
 
